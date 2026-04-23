@@ -24,7 +24,7 @@ The project is structured in two parts:
 
 | Configuration | Test Accuracy |
 |---|---|
-| PetNet (custom CNN, baseline) | ~52% |
+| PetNet (custom CNN, baseline) | 70.48% |
 | ResNet-18 – Original hyperparameters | 62.57% |
 | ResNet-18 – Resized inputs (224×224) | 85.32% |
 | ResNet-18 – Lowered augmentations | 88.03% |
